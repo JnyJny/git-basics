@@ -4,6 +4,8 @@ I wrote an awesome project and I want to share it with you!
 
 ## Description
 
+This project is neat.
+
 ## Installation
 
 ## Development
@@ -11,3 +13,5 @@ I wrote an awesome project and I want to share it with you!
 ## Other Stuff
 
 ## Stuff I Forgot
+
+
